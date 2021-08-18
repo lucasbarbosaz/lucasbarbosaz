@@ -1,7 +1,7 @@
 ### Lucas Barbosa<h6>Desenvolvedor BackEnd</h6>
  <div>
   <a href="https://github.com/TheLaxus">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TheLaxus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TheLaxus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
  
  ##
