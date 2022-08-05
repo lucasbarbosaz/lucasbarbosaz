@@ -1,4 +1,6 @@
 ### Lucas Barbosa<h6>Desenvolvedor BackEnd</h6>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TheLaxus&label=Profile%20views&color=0e75b6&style=flat" alt="TheLaxus" /> </p>
+
  <div>
   <a href="https://github.com/TheLaxus">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=TheLaxus&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
