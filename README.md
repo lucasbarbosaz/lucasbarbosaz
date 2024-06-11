@@ -2,7 +2,7 @@
 
 <h2>Hello World ☕</h2>
 
-<p>Lucas, ou mais conhecido como Laxus, é um Desenvolvedor Backend. Extremamente apaixonado por café e gosta de se aventurar em novos desafios. </p>
+<p>Lucas, ou mais conhecido como Laxus, é um Desenvolvedor Backend. Extremamente apaixonado por café e gosta de se aventurar em novos desafios.</p>
 
 </br>
 
