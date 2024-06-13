@@ -1,16 +1,24 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo TheLaxus">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h2>Hello World ☕</h2>
+<p align="left"> 
+  Me chamo Lucas Barbosa, tenho 21 anos e atuo na área de <strong>Back-end</strong>.<br>
+  Atualmente faço freelancers e estudo constatemente PHP, NodeJS e Laravel.
+</p>
 
-<p>Lucas, ou mais conhecido como Laxus, é um Desenvolvedor Backend. Extremamente apaixonado por café e gosta de se aventurar em novos desafios. </p>
+<p align="left">
+  🦄 Linguagens: **PHP, NodeJS**
+</p>
 
-</br>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  
+</p>
 
-<h3>Linguagens que eu domino:</h3> 
-
-<div align="left">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucashp03@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-4b1990236/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=lucaaszbarbosa" alt="Instagram"/></a>
+</p>
