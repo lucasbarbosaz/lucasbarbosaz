@@ -1,22 +1,27 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<h1 align="center">Hi 👋, I'm Lucas Barbosa</h1>
+<h3 align="center">A back-end developer and studies Systems Analysis and Development</h3>
 
-<p align="left"> 
-  Me chamo Lucas Barbosa, tenho 21 anos e atuo na área de <strong>Back-end</strong>.<br>
-  Atualmente faço freelancers e estudo constatemente PHP, NodeJS e Laravel.
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbarbosaz&label=Profile%20views&color=b40e0e&style=flat" alt="lucasbarbosaz" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucasbarbosaz" alt="lucasbarbosaz" /></a> </p>
+
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [github.com/Rondleysg](github.com/Rondleysg)
+
+- 📫 How to reach me **lucashp03@gmail.com**
+
+- 📄 Know about my experiences [www.linkedin.com/in/lucas-barbosa-4b1990236](www.linkedin.com/in/lucas-barbosa-4b1990236)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  🦄 Linguagens: **PHP, NodeJS**
+<a href="https://www.linkedin.com/in/lucas-barbosa-4b1990236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasbarbosaz" height="30" width="40" /></a>
+<a href="https://instagram.com/lucaaszbarbosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucaaszbarbosa" height="30" width="40" /></a>
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-  
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
-<p align="left">
-  <a href="mailto:lucashp03@gmail.com" target="_blank" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucashp03@gmail.com" alt="Gmail"/></a>
-  <a href="[#](https://www.linkedin.com/in/lucas-barbosa-4b1990236/)" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-4b1990236/" alt="LinkedIn"/></a>
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasbarbosaz&show_icons=true&layout=compact" alt="lucasbarbosaz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasbarbosaz&" alt="lucasbarbosaz" /></p>
