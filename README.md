@@ -38,5 +38,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-lucasbarbosaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-barbosa-4b1990236/)](https://www.linkedin.com/in/lucas-barbosa-4b1990236/)
-[![Gmail](https://img.shields.io/badge/-lucashp03@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashp03@gmail.com)](mailto:lucashp03@gmail.com)
+[![Gmail](https://img.shields.io/badge/-lucashp03@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashp03@gmail.com)](mailto:lucashp03@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/lucasbarbosaz?label=follow&style=social)](https://github.com/lucasbarbosaz)
