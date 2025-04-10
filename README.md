@@ -1,14 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=lucasbarbosaz&color=006bed)
 
-## Sobre mim
+## About me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de aplicação web.
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas no Centro Universitário Mario Pontes Jucá - UMJ (Maceió - Alagoas).
-- 🌱 Aprendendo mais sobre Laravel.
+- 🤔 Exploring new technologies and developing web application solutions.
+- 🎓 Studying Systems Analysis and Development at the Mario Pontes Jucá University Center - UMJ (Maceió - Alagoas).
+- 🌱 Learning more about Laravel.
+  
+## My Skills
 
-## Minhas Skills
-
-**Aplicações e dados**
+**Applications and data**
 
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -17,12 +17,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -35,7 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasbarbosaz&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to find me
 
 [![Linkedin](https://img.shields.io/badge/-lucasbarbosaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/flavio-barbosa-4b1990236/)](https://www.linkedin.com/in/flavio-barbosa-4b1990236/)
 [![Gmail](https://img.shields.io/badge/-lucashp03@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucashp03@gmail.com)](mailto:lucashp03@gmail.com)
