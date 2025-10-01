@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/flavio-barbosa-4b1990236/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://instagram.com/lucastibarbosa" target="blank"><img align="center"
+  <a href="https://instagram.com/flaviolcsti" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
